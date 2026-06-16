@@ -653,8 +653,4 @@ Netherlands
 
 [](https://app.termly.io/dsar/cd80768c-2bbe-461d-9c7c-a8220cf21456)
 
-ul { list-style-type: square; } ul > li > ul { list-style-type: circle; } ul > li > ul > li > ul { list-style-type: square; } ol li { font-family: Arial ; }
-
-  
-
 This Privacy Policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/)
