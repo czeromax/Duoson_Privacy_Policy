@@ -1,4 +1,4 @@
-* For questions and support regarding Duoson please email myhollandemail@gmail.com with the title "Duoson Support"
+** For questions and support regarding Duoson please email myhollandemail@gmail.com with the title "Duoson Support" **
 
 **
 
